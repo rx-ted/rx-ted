@@ -64,8 +64,14 @@ Here are some ideas to get you started:
 </div>
 
 <br>
+<br>
+<br>
+<br>
+<br>
 <div>
+
 <h3> Connect with me:</h3>
+
 - 👨‍💻 All of my projects are available at [https://github.com/rx-ted](https://github.com/rx-ted)
 
 - 📝 I regularly write articles on [https://rx-ted.github.io/blog](https://rx-ted.github.io/blog)
