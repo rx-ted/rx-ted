@@ -62,6 +62,7 @@ Here are some ideas to get you started:
 
 </div>
 
+<br>
 ### Connect with me:
 - 👨‍💻 All of my projects are available at [https://github.com/rx-ted](https://github.com/rx-ted)
 
@@ -74,6 +75,8 @@ Here are some ideas to get you started:
 
 <!-- 自我介绍 -->
 
+
+<br>
 
 <div align="center">
 
