@@ -17,8 +17,8 @@ jobs:
           id: snake-gif
           with:
             github_user_name: rx-ted
-            gif_out_path: dist/img/snake.gif
-            svg_out_path: dist/img/snake.svg
+            gif_out_path: ./img/snake.gif
+            svg_out_path: ./img/snake.svg
       
         - run: git status 
         - name: Push changes
