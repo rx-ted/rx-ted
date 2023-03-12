@@ -23,6 +23,8 @@ Here are some ideas to get you started:
 -->
 
 <!---https://rahuldkjain.github.io/gh-profile-readme-generator/---->
+<div align="center ">
+
 
 <h1 align="center">Hi 👋, I'm Gao Jingyi</h1>
 
@@ -49,7 +51,6 @@ Here are some ideas to get you started:
   <!-- Snake Code Contribution Map 贪吃蛇代码贡献图 -->
 <p><img src='https://github.com/rx-ted/rx-ted/blob/main/profile-snake-contrib/github-contribution-grid-snake-dark.svg?raw=true' /></p>
 
-<!-- 自我介绍 -->
 
 
 <!-- most used languages -->
@@ -59,10 +60,9 @@ Here are some ideas to get you started:
 <!-- github stars -->
 &nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=rx-ted&show_icons=true&locale=en" alt="rx-ted" /></p>
 
+</div>
 
-
-
-
+### Connect with me:
 - 👨‍💻 All of my projects are available at [https://github.com/rx-ted](https://github.com/rx-ted)
 
 - 📝 I regularly write articles on [https://rx-ted.github.io/blog](https://rx-ted.github.io/blog)
@@ -71,6 +71,11 @@ Here are some ideas to get you started:
 
 - 📄 Know about my experiences [等上传](等上传)
 
+
+<!-- 自我介绍 -->
+
+
+<div align="center">
 
 <!-- 常用编程语言 和工具 -->
 <h3 align="left">Languages and Tools:</h3>
@@ -133,3 +138,6 @@ Here are some ideas to get you started:
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rx-ted&" alt="rx-ted" /></p>
 
 
+
+
+</div>
