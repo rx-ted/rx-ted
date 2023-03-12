@@ -27,7 +27,7 @@ jobs:
             github_token: ${{ secrets.SNAKE_GENERATE }}
             branch: main
             force : true
-        - uses: crazy_max/ghaction-github-pages@v2.1.3
+        - uses: crazy-max/ghaction-github-pages@v2.1.3
           with:
             target_branch : output
             build_dir: dist
