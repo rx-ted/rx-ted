@@ -50,7 +50,9 @@ Here are some ideas to get you started:
 <img src='https://github.com/rx-ted/rx-ted/blob/main/profile-snake-contrib/github-contribution-grid-snake-dark.svg?raw=true' />
 
 <!-- most used languages -->
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rx-ted&show_icons=true&locale=en&layout=compact" alt="rx-ted" /></p><br>
+<p> 我主要编程语言是C/C++,Python,用来做嵌入式开发和训练模型。<br>比如说物联网，远程控制开关，等等。
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=rx-ted&show_icons=true&locale=en&layout=compact" alt="rx-ted" /></p>
+
 
 <!-- github stars -->
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rx-ted&show_icons=true&locale=en" alt="rx-ted" /></p>
