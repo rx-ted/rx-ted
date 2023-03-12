@@ -47,21 +47,20 @@ Here are some ideas to get you started:
   </div>
 
   <!-- Snake Code Contribution Map 贪吃蛇代码贡献图 -->
-<img src='https://github.com/rx-ted/rx-ted/blob/main/profile-snake-contrib/github-contribution-grid-snake-dark.svg?raw=true' />
+<p><img src='https://github.com/rx-ted/rx-ted/blob/main/profile-snake-contrib/github-contribution-grid-snake-dark.svg?raw=true' /></p>
+
+<!-- 自我介绍 -->
+
 
 <!-- most used languages -->
-<p> 我主要编程语言是C/C++,Python,用来做嵌入式开发和训练模型。<br>比如说物联网，远程控制开关，等等。
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=rx-ted&show_icons=true&locale=en&layout=compact" alt="rx-ted" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rx-ted&show_icons=true&locale=en&layout=compact" alt="rx-ted" />
 
 
 <!-- github stars -->
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rx-ted&show_icons=true&locale=en" alt="rx-ted" /></p>
+&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=rx-ted&show_icons=true&locale=en" alt="rx-ted" /></p>
 
 
-<!-- github状态 -->
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rx-ted" alt="rx-ted" /></a> </p>
 
-![](https://raw.githubusercontent.com/rx-ted/rx-ted/main/assets/github-contribution-grid-snake.svg)
 
 
 - 👨‍💻 All of my projects are available at [https://github.com/rx-ted](https://github.com/rx-ted)
@@ -72,15 +71,65 @@ Here are some ideas to get you started:
 
 - 📄 Know about my experiences [等上传](等上传)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/rx_ted0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rx_ted0" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/rx-ted" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="rx-ted" height="30" width="40" /></a>
-</p>
 
+<!-- 常用编程语言 和工具 -->
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="hexo.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/hexoio/hexoio-icon.svg" alt="hexo" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://www.qt.io/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Qt_logo_2016.svg" alt="qt" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+
+<table>
+  <tr>
+    <td align="center" width="96">
+      <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
+      <br>Python&nbsp;(Core)
+    </td>
+    <td align="center" width="96">
+      <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>
+      <br>C
+    </td>
+    <td align="center" width="96">
+       <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a>
+      <br>C++
+    </td>
+    <td align="center" width="96">
+      <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> 
+      <br>Arduino
+    </td>
+    <td align="center" width="96">
+      <a href="hexo.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/hexoio/hexoio-icon.svg" alt="hexo" width="40" height="40"/> </a> 
+      <br>Hexo
+    </td>
+    
+  </tr>
+  <tr>
+    <td align="center" width="96"> 
+       <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
+      <br>Git
+    </td>
+    <td align="center" width="96">
+    <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
+      <br>Linux
+    </td>
+    <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="https://raw.githubusercontent.com/PowerShell/PowerShell/master/assets/ps_black_128.svg" width="48" height="48" alt="Powershell" />
+      </a>
+      <br>Powershell
+    </td>
+    <td align="center"  width="96">
+      <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
+      <br>MySQL
+    </td>
+    <td align="center"  width="96">
+      ... ...<br>... ...
+    </td>
+  </tr>
+  <tr>
+  <td align="center" width="96">
+  </td>
+  </tr>
+</table>
 
 
-
+<!-- current streak -->
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rx-ted&" alt="rx-ted" /></p>
+
+
