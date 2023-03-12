@@ -2,7 +2,7 @@ name: Generate Snake
 
 on:
   schedule:
-    - cron: "0 0 * * *" 
+    - cron: "0 */6 * * *" 
   
   # allows to manually run the job at any time
   workflow_dispatch:
@@ -10,21 +10,27 @@ on:
 jobs:
   build:   
     runs-on: ubuntu-latest
-    timeout-minutes: 10
-    
+    # timeout-minutes: 10
     steps:
-      - name: Checkout
-        uses: actions/checkout@v2.3.4
-      - name: Generate Snake
-        uses: Platane/snk@master
-        id: snake-gif
-        with:
-          github_user_name: ${{ github.repository_owner }}
-          gif_out_path: ./img/snake.gif
-          svg_out_path: ./img/snake.svg
-      - name: Push to Github
-        uses: EndBug/add-and-commit@v7.2.1
-        with: 
-          branch: main
-          message: 'Generate Contribution Snake'
-          
+        - uses: actions/checkout@v2
+        - uses: Platane/snk@master        
+          id: snake-gif
+          with:
+            github_user_name: rx-ted
+            gif_out_path: dist/img/snake.gif
+            svg_out_path: dist/img/snake.svg
+      
+        - run: git status 
+        - name: Push changes
+          uses: ad-m/github_push-action@master
+          with: 
+            github_token: ${{ secrets.GITHUB_TOKEN }}
+            branch: main
+            force : true
+        - uses: crazy_max/ghaction-github-pages@v2.1.3
+          with:
+            target_branch : output
+            build_dir: dist
+          env: 
+            GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+ 
