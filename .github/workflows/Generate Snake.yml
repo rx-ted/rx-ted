@@ -22,9 +22,9 @@ jobs:
       
         - run: git status 
         - name: Push changes
-          uses: ad-m/github-push-action@master
+          uses: ad-m/github-push-action@v0.6.0
           with: 
-            github_token: ${{ secrets.GITHUB_TOKEN }}
+            github_token: ${{ secrets.SNAKE_GENERATE }}
             branch: main
             force : true
         - uses: crazy_max/ghaction-github-pages@v2.1.3
@@ -32,5 +32,5 @@ jobs:
             target_branch : output
             build_dir: dist
           env: 
-            GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+            GITHUB_TOKEN: ${{ secrets.SNAKE_GENERATE }}
  
