@@ -51,8 +51,7 @@ Here are some ideas to get you started:
   <!-- Snake Code Contribution Map 贪吃蛇代码贡献图 -->
 <p><img src='https://github.com/rx-ted/rx-ted/blob/main/profile-snake-contrib/github-contribution-grid-snake-dark.svg?raw=true' /></p>
 
-
-
+<div>
 <!-- most used languages -->
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rx-ted&show_icons=true&locale=en&layout=compact" alt="rx-ted" />
 
@@ -62,9 +61,11 @@ Here are some ideas to get you started:
 
 </div>
 
+</div>
+
 <br>
 <div>
-### Connect with me:
+<h3> Connect with me:</h3>
 - 👨‍💻 All of my projects are available at [https://github.com/rx-ted](https://github.com/rx-ted)
 
 - 📝 I regularly write articles on [https://rx-ted.github.io/blog](https://rx-ted.github.io/blog)
