@@ -21,7 +21,7 @@ Here are some ideas to get you started:
  * @LastEditors: rx-ted
  * @LastEditTime: 2023-03-11 16:05:53
 -->
-
+<!-- https://zzetao.github.io/awesome-github-profile/ -->
 <!---https://rahuldkjain.github.io/gh-profile-readme-generator/---->
 <div align="center ">
 
@@ -36,30 +36,24 @@ Here are some ideas to get you started:
 <img src="https://github.com/rx-ted/rx-ted/raw/main/img/coding.gif" align="center" /><br>
 
  <!-- profile logo 个人资料徽标 -->
-  <div align="center">
+<div align="center">
     <a href="https://rx-ted.github.io/blog"><img src="https://img.shields.io/badge/Website-博客-blue" /></a>&emsp;
-    <!-- <a href="https://twitter.com/Rx_ted0"><img src="https://img.shields.io/badge/Twitter-推特-blue" /></a>&emsp; -->
-    <!-- <a href="油管"><img src="https://img.shields.io/badge/YouTube-油管-c32136" /></a>&emsp; -->
-    <a href="微信图片"><img src="https://img.shields.io/badge/WeChat-微信-07c160" /></a>&emsp;
-    <a href="bilibili"><img src="https://img.shields.io/badge/Bilibili-B站-ff69b4" /></a>&emsp;
-    <a href="CSDN"><img src="https://img.shields.io/badge/CSDN-论坛-c32136" /></a>&emsp;
+    <a href="https://github.com/rx-ted/rx-ted/blob/main/img/WeChat.jpg?raw=true"><img src="https://img.shields.io/badge/WeChat-微信-07c160" /></a>&emsp;
+    <a href="bilibili.com"><img src="https://img.shields.io/badge/Bilibili-B站-ff69b4" /></a>&emsp;
+    <a href="CSDN.net"><img src="https://img.shields.io/badge/CSDN-论坛-c32136" /></a>&emsp;
     <!-- <a href="知乎"><img src="https://img.shields.io/badge/Zhihu-知乎-blue" /></a>&emsp; -->
     <!-- visitor statistics logo 访客数统计徽标 -->
     <img src="https://komarev.com/ghpvc/?username=rx-ted&label=Profile%20views&color=0e75b6&style=flat" alt="rx-ted" />
-  </div>
+</div>
 
   <!-- Snake Code Contribution Map 贪吃蛇代码贡献图 -->
-<p><img src='https://github.com/rx-ted/rx-ted/blob/main/profile-snake-contrib/github-contribution-grid-snake-dark.svg?raw=true' /></p>
+<img src='https://github.com/rx-ted/rx-ted/blob/main/profile-snake-contrib/github-contribution-grid-snake-dark.svg?raw=true' />
 
-<div>
 <!-- most used languages -->
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rx-ted&show_icons=true&locale=en&layout=compact" alt="rx-ted" />
 
-
 <!-- github stars -->
 &nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=rx-ted&show_icons=true&locale=en" alt="rx-ted" /></p>
-
-</div>
 
 </div>
 
@@ -80,8 +74,8 @@ Here are some ideas to get you started:
 
 - 📄 Know about my experiences [等上传](等上传)
 
-
 <!-- 自我介绍 -->
+### 自我介绍（等补充）
 
 </div>
 <br>
@@ -146,7 +140,7 @@ Here are some ideas to get you started:
 
 
 <!-- current streak -->
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rx-ted&" alt="rx-ted" /></p>
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rx-ted&" alt="rx-ted" />
 
 
 
