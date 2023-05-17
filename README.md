@@ -72,10 +72,14 @@ Here are some ideas to get you started:
 
 - 📫 How to reach me **gjy.18sui@gmail.com**
 
-- 📄 Know about my experiences [等上传](等上传)
+- 📄 Know about my experiences [resume-English](https://rx-ted.github.io/blog/2023/05/16/My-English-Resume/)
 
 <!-- 自我介绍 -->
-### 自我介绍（等补充）
+### 自我介绍
+
+[resume-English](https://rx-ted.github.io/blog/2023/05/16/My-English-Resume/)
+
+[resume-Chinese](https://rx-ted.github.io/blog/2023/05/16/My-English-Resume/) `待补充`
 
 </div>
 <br>
